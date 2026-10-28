@@ -3,21 +3,34 @@ import type { ReactNode } from "react";
 import styles from "./Text.module.scss";
 
 interface IText {
-  children: ReactNode;
-  size?: "xl" | "lg" | "md" | "sm";
   as?: "h1" | "h2" | "p" | "nav";
+  size?: "xl" | "lg" | "md" | "sm";
+  fontFamily?: "Montserrat" | "Lora";
+  weight?: "normal" | "bold";
   className?: string;
-  fontFamily: "Montserrat" | "Lora";
+  children: ReactNode;
 }
 
 const Text = ({
-  children,
-  size = "md",
-  className = "",
   as: Tag = "p",
+  size = "md",
+  fontFamily = "Lora",
+  weight = "normal",
+  className = "",
+  children,
 }: IText) => {
   return (
-    <Tag className={clsx(styles.text, styles[size], className)}>{children}</Tag>
+    <Tag
+      className={clsx(
+        styles.text,
+        styles[size],
+        styles[fontFamily],
+        styles[weight],
+        className,
+      )}
+    >
+      {children}
+    </Tag>
   );
 };
 
