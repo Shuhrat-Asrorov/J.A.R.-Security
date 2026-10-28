@@ -7,6 +7,7 @@ interface IButton {
   variantType?: "primary" | "secondary" | "white";
   className?: string;
   children?: ReactNode;
+  onClick?(): void;
 }
 
 const Button = ({
@@ -14,12 +15,14 @@ const Button = ({
   variantType = "primary",
   className,
   children,
+  onClick,
 }: IButton) => {
   return (
     <>
       <button
         type={type}
         className={clsx(styles.button, styles[variantType], className)}
+        onClick={onClick}
       >
         {children}
       </button>

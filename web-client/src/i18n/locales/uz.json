@@ -1,0 +1,129 @@
+{
+  "navigation": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "partners": "Hamkorlar",
+    "services": "Xizmatlarimiz",
+    "whyUs": "Nima uchun biz?",
+    "portfolio": "Ishlarimiz",
+    "languages": {
+      "ru": "RU",
+      "uz": "UZ",
+      "en": "EN"
+    }
+  },
+  "hero": {
+    "eyebrow": "J.A.R Security",
+    "title": "Biznesingiz va uyingiz uchun zamonaviy xavfsizlik tizimlari",
+    "description": "Biz videokuzatuv tizimlarini loyihalashtiramiz va o‘rnatamiz, obyektlaringiz ishonchli himoyasini ta’minlaymiz.",
+    "actions": {
+      "request": "Ariza qoldirish",
+      "learnMore": "Batafsil ma’lumot"
+    }
+  },
+  "advantages": {
+    "reliableEquipment": "Ishonchli uskunalar",
+    "professionalInstallation": "Professional o‘rnatish",
+    "technicalSupport": "Texnik yordam",
+    "fastVisit": "Tezkor yetib borish"
+  },
+  "about": {
+    "eyebrow": "Biz haqimizda",
+    "title": "J.A.R Security — xavfsizlik sohasidagi ishonchli hamkoringiz",
+    "description": "Biz videokuzatuv, yong‘in xavfsizligi, kirishni nazorat qilish tizimlari (SKUD) va boshqa muhandislik yechimlarini loyihalashtirish, o‘rnatish hamda texnik xizmat ko‘rsatish bilan shug‘ullanuvchi professionallar jamoasimiz. Maqsadimiz — xavfsizligingiz, xotirjamligingiz va biznesingiz samarali faoliyatini ta’minlash.",
+    "benefits": {
+      "experience": "Xavfsizlik sohasidagi tajriba",
+      "individualApproach": "Individual yondashuv",
+      "guarantee": "Uskunalar va bajarilgan ishlar uchun kafolat"
+    }
+  },
+  "partners": {
+    "eyebrow": "Hamkorlar",
+    "title": "Nima uchun Hikvision va Dahua?",
+    "description": "Biz butun dunyoda o‘zini ishonchli brendlar sifatida namoyon etgan ishlab chiqaruvchilar bilan ishlaymiz. Hikvision va Dahua — ishonchli yechimlar, zamonaviy texnologiyalar hamda narx va sifatning ajoyib uyg‘unligidir.",
+    "hikvision": {
+      "name": "Hikvision",
+      "features": {
+        "imageQuality": "Yuqori tasvir sifati",
+        "wideRange": "Keng mahsulot assortimenti",
+        "reliability": "Ishonchlilik va barqarorlik"
+      }
+    },
+    "dahua": {
+      "name": "Dahua",
+      "features": {
+        "innovation": "Innovatsion texnologiyalar",
+        "flexibleSolutions": "Har qanday obyekt uchun moslashuvchan yechimlar",
+        "value": "Narx va sifatning ajoyib uyg‘unligi"
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Xizmatlarimiz",
+    "title": "Biz nimalarni taklif qilamiz?",
+    "items": {
+      "videoSurveillance": {
+        "title": "Videokuzatuv kameralari",
+        "description": "Ichki va tashqi foydalanish uchun 4K va Full HD kameralar."
+      },
+      "fireDetection": {
+        "title": "Yong‘in aniqlash datchiklari",
+        "description": "Yong‘in xavfini erta aniqlash."
+      },
+      "accessControl": {
+        "title": "Kirishni nazorat qilish tizimi (SKUD)",
+        "description": "Kirish-chiqishni nazorat qilish va ish vaqtini hisobga olish."
+      },
+      "ipTelephony": {
+        "title": "IP-telefoniya",
+        "description": "Biznesni samarali boshqarish uchun zamonaviy aloqa tizimi."
+      },
+      "parkingManagement": {
+        "title": "Avtoturargohni boshqarish tizimi",
+        "description": "Avtomatlashtirish va nazorat."
+      }
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Nima uchun biz?",
+    "title": "Nima uchun aynan bizni tanlashadi?",
+    "description": "Biz mijozlarimizga o‘zlarini ishonchli va himoyalangan his qilishlariga yordam beradigan kompleks yechimlarni taklif qilamiz.",
+    "benefits": {
+      "individualSolutions": "Vazifalaringizga mos individual yechimlar",
+      "fastService": "Tezkor o‘rnatish va texnik xizmat",
+      "qualifiedSpecialists": "Malakali mutaxassislar",
+      "flexiblePrices": "Hamyonbop narxlar va moslashuvchan shartlar",
+      "guarantee": "Uskunalar va bajarilgan ishlar uchun kafolat",
+      "support": "24/7 texnik yordam"
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Ishlarimiz",
+    "title": "O‘rnatilgan tizimlardan namunalar",
+    "viewAll": "Barchasini ko‘rish"
+  },
+  "documentation": {
+    "title": "Hujjatlarimiz",
+    "description": "Ishlarimiz sifati va talablariga muvofiqligini tasdiqlovchi barcha zarur sertifikatlar, litsenziyalar va hujjatlar.",
+    "viewAll": "Barchasini ko‘rish"
+  },
+  "cooperation": {
+    "title": "Biz kimlar bilan hamkorlik qilamiz?",
+    "description": "Biz xavfsizlik sohasidagi yetakchi brendlar va ishonchli hamkorlar bilan ishlaymiz."
+  },
+  "contact": {
+    "title": "Savollaringiz bormi?",
+    "description": "Ariza qoldiring — biz tez orada siz bilan bog‘lanib, barcha savollaringizga javob beramiz.",
+    "writeToUs": "Bizga yozing",
+    "phone": "+998 90 636 99 99",
+    "email": "djahangirov.9999@gmail.com",
+    "address": "Buxoro shahri, Sulaymon Murodov ko‘chasi, 90-uy",
+    "request": "Ariza qoldirish"
+  },
+  "common": {
+    "learnMore": "Batafsil ma’lumot",
+    "close": "Yopish",
+    "previous": "Oldingi",
+    "next": "Keyingi"
+  }
+}

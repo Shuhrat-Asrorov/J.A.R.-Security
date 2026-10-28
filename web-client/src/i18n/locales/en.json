@@ -1,0 +1,129 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "partners": "Partners",
+    "services": "Our Services",
+    "whyUs": "Why Choose Us",
+    "portfolio": "Our Projects",
+    "languages": {
+      "ru": "RU",
+      "uz": "UZ",
+      "en": "EN"
+    }
+  },
+  "hero": {
+    "eyebrow": "J.A.R Security",
+    "title": "Modern Security Systems for Your Business and Home",
+    "description": "We design and install video surveillance systems to ensure reliable protection for your property.",
+    "actions": {
+      "request": "Submit a Request",
+      "learnMore": "Learn More"
+    }
+  },
+  "advantages": {
+    "reliableEquipment": "Reliable Equipment",
+    "professionalInstallation": "Professional Installation",
+    "technicalSupport": "Technical Support",
+    "fastVisit": "Fast On-Site Service"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "J.A.R Security — Your Trusted Security Partner",
+    "description": "We are a team of professionals specializing in the design, installation, and maintenance of video surveillance systems, fire safety systems, access control systems, and other engineering solutions. Our goal is to ensure your safety, peace of mind, and efficient business operations.",
+    "benefits": {
+      "experience": "Experience in the Security Industry",
+      "individualApproach": "Personalized Approach",
+      "guarantee": "Warranty on Equipment and Installation"
+    }
+  },
+  "partners": {
+    "eyebrow": "Partners",
+    "title": "Why Hikvision and Dahua?",
+    "description": "We work with trusted brands that have established a strong reputation worldwide. Hikvision and Dahua offer reliable solutions, modern technologies, and excellent value for money.",
+    "hikvision": {
+      "name": "Hikvision",
+      "features": {
+        "imageQuality": "High Image Quality",
+        "wideRange": "Wide Product Range",
+        "reliability": "Reliability and Stability"
+      }
+    },
+    "dahua": {
+      "name": "Dahua",
+      "features": {
+        "innovation": "Innovative Technologies",
+        "flexibleSolutions": "Flexible Solutions for Any Property",
+        "value": "Excellent Value for Money"
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "title": "What Do We Offer?",
+    "items": {
+      "videoSurveillance": {
+        "title": "Video Surveillance Cameras",
+        "description": "Indoor and outdoor 4K and Full HD cameras."
+      },
+      "fireDetection": {
+        "title": "Fire Detection Sensors",
+        "description": "Early detection of potential fire hazards."
+      },
+      "accessControl": {
+        "title": "Access Control Systems",
+        "description": "Access management and employee time tracking."
+      },
+      "ipTelephony": {
+        "title": "IP Telephony",
+        "description": "Modern communication solutions for efficient business management."
+      },
+      "parkingManagement": {
+        "title": "Parking Management System",
+        "description": "Automation and monitoring."
+      }
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Why Choose Us",
+    "title": "Why Do Customers Choose Us?",
+    "description": "We offer a comprehensive approach that helps our customers feel confident and secure.",
+    "benefits": {
+      "individualSolutions": "Tailored Solutions for Your Needs",
+      "fastService": "Fast Installation and Maintenance",
+      "qualifiedSpecialists": "Qualified Specialists",
+      "flexiblePrices": "Affordable Prices and Flexible Terms",
+      "guarantee": "Warranty on Equipment and Installation",
+      "support": "24/7 Support"
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Our Projects",
+    "title": "Installation Examples",
+    "viewAll": "View All"
+  },
+  "documentation": {
+    "title": "Our Documentation",
+    "description": "All the necessary certificates, licenses, and documents confirming the quality of our work.",
+    "viewAll": "View All"
+  },
+  "cooperation": {
+    "title": "Who We Work With",
+    "description": "We work with leading brands and trusted partners in the security industry."
+  },
+  "contact": {
+    "title": "Have Any Questions?",
+    "description": "Submit a request, and we will contact you shortly to answer all your questions.",
+    "writeToUs": "Contact Us",
+    "phone": "+998 90 636 99 99",
+    "email": "djahangirov.9999@gmail.com",
+    "address": "90 Suleiman Murodov Street, Bukhara, Uzbekistan",
+    "request": "Submit a Request"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
