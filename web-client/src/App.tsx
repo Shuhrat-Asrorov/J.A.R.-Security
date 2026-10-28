@@ -1,12 +1,11 @@
-import styles from './App.module.scss'
+import Text from "./components/Text";
 
 const App = () => {
-
   return (
-    <>
-      <h1 className={styles.varss}>JAR SECURITY</h1>
-    </>
-  )
-}
+    <Text as="h1" fontFamily="Montserrat">
+      JAR SECURITY
+    </Text>
+  );
+};
 
-export default App
+export default App;
